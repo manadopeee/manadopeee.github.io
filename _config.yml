@@ -13,6 +13,16 @@ permalink: /:title/
 
 # Authors
 authors:
+  kei:
+    name: Kei
+    display_name: Kei
+    avatar: 'assets/images/pngegg.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: manadopeee@gmail.com
+    web: https://manadopeee.github.io
+    twitter: # https://twitter.com/wowthemesnet
+    description: "개발, 개발, 개발 with Github pages."
+
   sal:
     name: Sal
     display_name: Sal
