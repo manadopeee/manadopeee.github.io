@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dataset Agumentation"
-author: sal
+author: kei
 categories: [ 머신러닝, 기초 ]
 <!-- image: assets/images/17.jpg -->
 ---
