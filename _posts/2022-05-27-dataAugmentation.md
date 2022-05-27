@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dataset Agumentation"
+title: "Dataset Agumentation"
 author: kei
 categories: [ 머신러닝, 기초 ]
 <!-- image: assets/images/17.jpg -->
