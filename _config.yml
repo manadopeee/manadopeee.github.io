@@ -1,7 +1,7 @@
 # Site
 name: "Mediumish"
 title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: " 이해할 수 있도록 정리한 블로그."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 'https://manadopeee.github.io' # /mediumish-theme-jekyll
