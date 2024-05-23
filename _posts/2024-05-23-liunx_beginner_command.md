@@ -44,7 +44,7 @@ toc: true
 > netstat\
 > wget\
 > curl\
-> nslookup\
+> nslookup
 
 # Reference
 <a href="https://blog.yulisys.com/m/75">#리눅스 초보자가 꼭 배워야 하는 37가지 Linux 커맨드</a>\
