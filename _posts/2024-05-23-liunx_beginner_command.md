@@ -4,7 +4,7 @@ title: "The Linux command line for beginners"
 author: kei
 categories: [ Linux, 리눅스 ]
 <!-- image: assets/images/17.jpg -->
-beforetoc: "지금 와서 물어보긴 부끄러운 리눅스 명령어"
+beforetoc: "지금 와서 물어보긴 부끄러울 수 있는 리눅스 명령어"
 toc: true
 ---
 ## Linux command
