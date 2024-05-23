@@ -7,7 +7,7 @@ categories: [ Linux, 리눅스 ]
 beforetoc: "지금 와서 물어보긴 부끄러운 리눅스 명령어"
 toc: true
 ---
-Linux command
+# Linux command
 > ls\
 > pwd\
 > cd\
@@ -46,7 +46,7 @@ Linux command
 > curl\
 > nslookup\
 
-Reference
+# Reference
 <a href="https://blog.yulisys.com/m/75">#리눅스 초보자가 꼭 배워야 하는 37가지 Linux 커맨드</a>\
-<a href="[https://blog.yulisys.com/m/75](https://regatta.tistory.com/8)">#지금 와서 물어보긴 부끄러운 리눅스 리소스 감시 명령어</a>\
-<a href="[https://blog.yulisys.com/m/75](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)">#The Linux command line for beginners</a>\
+<a href="https://regatta.tistory.com/8">#지금 와서 물어보긴 부끄러운 리눅스 리소스 감시 명령어</a>\
+<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">#The Linux command line for beginners</a>
